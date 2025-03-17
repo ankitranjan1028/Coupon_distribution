@@ -30,8 +30,8 @@ A real-time coupon management system built with React, Node.js, and WebSockets. 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RyomenDev/Round-Robin-Coupon-Distribution
-   cd Round-Robin-Coupon-Distribution
+   git clone https://github.com/ankitranjan1028/Coupon_distribution
+   cd Coupon_Distribution
    ```
 
 2. **Install dependencies:**
